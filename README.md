@@ -1,0 +1,108 @@
+# ITZY – Voltage
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Ah...
+甘くみないで Just a girl
+No way no way no way
+本気を出したら
+Shake the world
+世界観 Upside down
+Yeah 心の奥には Fever
+抑えきれないかも
+Calm down calm down でも
+爆発しそう Boom Boom Pop
+揺れ出すグラグラと
+You can’t take control
+Getting so hot
+今気付いたんでしょ？
+Temperature up
+Temperature up
+Ah ジリジリ聞こえてくるわ
+Fire alarm
+Hot Hot Hot Hot
+上がるわ Tension
+もうすぐ形勢逆転ね
+ゾクゾク
+Like a dynamite
+火がついたら止めらんない
+My senses 目覚めたように
+Tell me can you
+feel me blowing
+up up U-U-U-Up
+Boom ついに完全爆発
+My voltage up
+出口見つけたわ Power
+赤い電光のPanorama
+You can’t escape
+覚悟決めて You can’t say no
+私の情熱に飲み込まれたら
+Boom Boom Pow blowing up
+Bring my voltage up
+Boom Boom Pow burning up
+Bring my voltage up
+Hot damn
+行きたい方向へ
+Go straight
+今、目かがやかせ
+未来を目指すの
+Ah I wanna see you all burn up
+Hot spot
+That’s where I’ll be
+私歩くだけで
+You can feel the heat
+冷めた目つき
+Just one look
+見て見ぬ振り
+But you’re hooked
+Tick Tock Tick Tock
+聞こえる Timer
+溢れる Passion
+逃げられっこないわ
+Just like a grenade
+火がついたら燃えるだけ
+High fever
+振り切れたように
+Tell me can you
+feel me blowing
+up up U-U-U-Up
+Boom ついに完全爆発
+My voltage up
+出口見つけたわ Power
+赤い電光のPanorama
+You can’t escape
+覚悟決めて You can’t say no
+私の情熱に飲み込まれたら
+Hot damn 行きたい方向へ
+Go straight 進め
+At the speed of light
+Always
+全て自分で決めたこと
+だから OK
+Hot damn ためらって
+止まったなら時間が無駄
+未来を目指すの
+Ah I wanna see you all burn up
+Wake up call 本能
+覚醒の時が来た
+With my eyes open wide
+焼きつけるわ
+I’ll put the world on fire
+Boom 高く燃え上がるわ
+My voltage up
+周り巻き込むアルファ
+一分一秒が正念場
+You can’t cool me
+熱したら冷めない
+Type no no
+灼熱の世界 ひき込まれたら
+Boom Boom Pow blowing up
+Bring my voltage up
+Boom Boom Pow burning up
+Bring my voltage up
+Hot damn 今すぐ世界
+揺るがすほどの衝撃
+未来を目指すの
+Ah I wanna see you all burn up
+```
