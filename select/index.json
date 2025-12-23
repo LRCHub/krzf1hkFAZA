@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Voltage",
+  "base_artist": "ITZY",
+  "createdAt": "2025-12-23T14:29:14.200220Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "High Voltage (Bonus Track) [Live]",
+      "artist": "LINKIN PARK",
+      "has_synced": false,
+      "path": "select/01_High_Voltage_(Bonus_Track)_[Live]_LINKIN_PARK.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Danger! High Voltage - Soulchild Radio Mix",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/02_Danger!_High_Voltage_-_Soulchild_Radio_Mix_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Danger! High Voltage",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/03_Danger!_High_Voltage_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Supermassive Black Hole (Phones Control Voltage Remix)",
+      "artist": "Muse",
+      "has_synced": false,
+      "path": "select/04_Supermassive_Black_Hole_(Phones_Control_Voltage_Remix)_Muse.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Voltage",
+      "artist": "Skrillex",
+      "has_synced": false,
+      "path": "select/05_Voltage_Skrillex.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Danger! High Voltage (Re-Recorded)",
+      "artist": "Electric Six",
+      "has_synced": false,
+      "path": "select/06_Danger!_High_Voltage_(Re-Recorded)_Electric_Six.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Danger! High Voltage (Re-Recorded)",
+      "artist": "Electric Six",
+      "has_synced": false,
+      "path": "select/07_Danger!_High_Voltage_(Re-Recorded)_Electric_Six.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Danger! High Voltage!",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/08_Danger!_High_Voltage!_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "High Voltage",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/09_High_Voltage_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "High Voltage (2000 Reprise)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/10_High_Voltage_(2000_Reprise)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "High Voltage (WTC Mix)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/11_High_Voltage_(WTC_Mix)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Electric (Mad Professor High Voltage mix)",
+      "artist": "Robyn",
+      "has_synced": false,
+      "path": "select/12_Electric_(Mad_Professor_High_Voltage_mix)_Robyn.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "03. Electric (Mad Professor High Voltage Dub)",
+      "artist": "Robyn",
+      "has_synced": false,
+      "path": "select/13_03._Electric_(Mad_Professor_High_Voltage_Dub)_Robyn.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "High Voltage",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/14_High_Voltage_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "High Voltage",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/15_High_Voltage_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "High Voltage",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/16_High_Voltage_AC_DC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Voltage",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_Voltage_ITZY.txt"
+    }
+  ]
+}
